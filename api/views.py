@@ -11,4 +11,3 @@ def anotherfunc(request):
 #def anotherfunc(request):
     #print 'this is using a print function'
 
-# Create your views here.
